@@ -1,6 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
-
+.ipynb_checkpoints
 # .tfstate files
 *.tfstate
 *.tfstate.*
