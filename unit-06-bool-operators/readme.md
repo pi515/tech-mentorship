@@ -23,7 +23,7 @@
 1. Log into WiFi network.
 2. **CTRL + ALT + T** to open terminal.
 3. `cd ~/tech-mentorship-2425` (remember to press **TAB** to autocomplete)
-4. `git stash`
+4. `git stash --all`
 5. `gh repo sync`
 6. `jupyter lab`
 
