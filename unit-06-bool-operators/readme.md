@@ -1,7 +1,7 @@
 # Unit 06
 
 [Repo Root](../README.md)  
-[Lesson Slides](./lesson.pptx)  
+[Lesson Slides](./lesson.pdf)  
 [Exercises](./exercises.ipynb)  
 [Exercises (solutions)](./exercises_solution.ipynb)  
 
