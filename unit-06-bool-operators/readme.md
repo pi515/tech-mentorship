@@ -1,28 +1,31 @@
-# Unit [UNIT_NUMBER]
-
-**todo: instructors will finalize lesson materials and review**
+# Unit 06
 
 [Repo Root](../README.md)  
 [Lesson Slides](./lesson.pptx)  
-[Exercises](./exercises.py)  
-[Exercises (solutions)](./exercises_solution.py)  
-[Review Slides](./review.pptx)  
-[Review Exercises](./review_exercises.py)  
-[Review Exercises (solutions)](./review_exercises_solution.py)
+[Exercises](./exercises.ipynb)  
+[Exercises (solutions)](./exercises_solution.ipynb)  
 
-# [UNIT_TOPIC]
+# Booleans, Comparison Operators, & Logical Operators
 #### Concepts & Objectives
-[UNIT_OBJECTIVES]
+1. Boolean data type
+2. Comparison Operators
+3. Logical Operators
+4. Combining Logical and Comparison Operators
+5. Boolean Algebra Challenge Exercises
 
 #### Key Terminology
-[UNIT_TERMINOLOGY]
+* Boolean- Data type with two possible values: True or False
+* Comparison Operators: Special characters that check the relationship between two values
+* Logical Operators: Special keywords used to combine or modify conditions
 
 ## Lesson
 #### Start of Class
-[UNIT_START]
+1. Log into WiFi network.
+2. **CTRL + ALT + T** to open terminal.
+3. `cd ~/tech-mentorship-2425` (remember to press **TAB** to autocomplete)
+4. `git stash`
+5. `gh repo sync`
+6. `jupyter lab`
 
 #### End of Class
-[UNIT_END]
-
-#### 
-[UNIT_LESSON]
+1. `git stash`
