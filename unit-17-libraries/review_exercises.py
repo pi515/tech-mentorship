@@ -5,7 +5,7 @@ import random
 # Now write a function that simulates a two-player game where you are playing against a friend
 # Plot twists:
 #   1. Because your friend is super competitive, the game must go on until your friend wins
-#   2. The function must return your friend's winning move as a string
+#   2. The function must return a string that contains your friend's winning move
 #   3. Bonus: In the same string statement, also include the number of games it took for your friend to win.
 # Hint: this exercise will test your knowledge of loops, booleans and use of the random library
 def rock_paper_scissors() -> str:
@@ -18,5 +18,5 @@ def rock_paper_scissors() -> str:
 
 result = rock_paper_scissors()
 print(result) 
-# expected: A string statement containing your friend's winning move ("rock", "paper" or "scissor")
+# expected: A string statement containing your friend's winning move ("rock", "paper" or "scissors")
 # optional: The string also outputs the number of games it took for your friend to win ("Your friend chose rock and won after 3 games")
