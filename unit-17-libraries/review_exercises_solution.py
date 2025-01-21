@@ -5,8 +5,8 @@ import random
 # Now write a function that simulates a two-player game where you are playing against a friend
 # Plot twists:
 #   1. Because your friend is super competitive, the game must go on until your friend wins
-#   2. The function must print your friend's winning move
-#   3. Bonus: also print the number of games it took for your friend to win.
+#   2. The function must return your friend's winning move as a string
+#   3. Bonus: In the same string statement, also include the number of games it took for your friend to win.
 # Hint: this exercise will test your knowledge of loops, booleans and use of the random library
 def rock_paper_scissors() -> str:
     friend_wins = False
