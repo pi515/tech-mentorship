@@ -18,5 +18,5 @@ def rock_paper_scissors() -> str:
 
 result = rock_paper_scissors()
 print(result) 
-# expected: A string statement containing your friend's winning move 
-# optional: The string also outputs the number of games it took for your friend to win
+# expected: A string statement containing your friend's winning move ("rock", "paper" or "scissor")
+# optional: The string also outputs the number of games it took for your friend to win ("Your friend chose rock and won after 3 games")
