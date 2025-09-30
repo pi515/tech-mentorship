@@ -43,26 +43,27 @@ NOTE: Google requires a cell phone number to create an account.
 
 #### 2. Sign in to Google Colab
 1. Go to https://colab.research.google.com
-2. <details><summary>Click <code>Sign In</code>
+
+3. <details><summary>Click <code>Sign In</code>
    </summary>
    <img src="assets/colab0.png"/>
    </details>
-3. Follow the Google sign-in process.
-4. <details><summary>In Colab, click <code>File</code>in the top left corner
+4. Follow the Google sign-in process.
+5. <details><summary>In Colab, click <code>File</code>in the top left corner
    </summary>
    <img src="assets/colab1.png"/>
    </details>
-5. <details><summary>Click <code>Open notebook</code>
+6. <details><summary>Click <code>Open notebook</code>
    </summary>
    <img src="assets/colab2.png"/>
    </details>
-6. <details><summary>Click <code>GitHub</code>
+7. <details><summary>Click <code>GitHub</code>
    </summary>
    <img src="assets/colab3.png"/>
    </details>
-7. <details><summary>
+8. <details><summary>
    Copy and paste <code>https://github.com/pi515/tech-mentorship</code> into <code>GitHub URL</code>
    </summary>
    <img src="assets/colab4.png"/>
    </details>
-8. Open your first Jupyter Notebook!
+9. Open your first Jupyter Notebook!
