@@ -12,7 +12,7 @@ This chapter covers the setup of your **development environment**. The Tech Ment
 -  No ⇒ [click for step 1](#1-create-a-google-account)
 
 #### 1. Create a Google account
-NOTE: Google requires a cell phone number to create an account. 
+######: Google requires a cell phone number to create an account. 
 
 1. Go to https://accounts.google.com
 2. <details><summary>Click<code>Create account</code>
@@ -44,26 +44,26 @@ NOTE: Google requires a cell phone number to create an account.
 #### 2. Sign in to Google Colab
 1. Go to https://colab.research.google.com
 
-3. <details><summary>Click <code>Sign In</code>
+2. <details><summary>Click <code>Sign In</code>
    </summary>
    <img src="assets/colab0.png"/>
    </details>
-4. Follow the Google sign-in process.
-5. <details><summary>In Colab, click <code>File</code>in the top left corner
+3. Follow the Google sign-in process.
+4. <details><summary>In Colab, click <code>File</code>in the top left corner
    </summary>
    <img src="assets/colab1.png"/>
    </details>
-6. <details><summary>Click <code>Open notebook</code>
+5. <details><summary>Click <code>Open notebook</code>
    </summary>
    <img src="assets/colab2.png"/>
    </details>
-7. <details><summary>Click <code>GitHub</code>
+6. <details><summary>Click <code>GitHub</code>
    </summary>
    <img src="assets/colab3.png"/>
    </details>
-8. <details><summary>
+7. <details><summary>
    Copy and paste <code>https://github.com/pi515/tech-mentorship</code> into <code>GitHub URL</code>
    </summary>
    <img src="assets/colab4.png"/>
    </details>
-9. Open your first Jupyter Notebook!
+8. Open your first Jupyter Notebook!
