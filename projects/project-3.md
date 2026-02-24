@@ -19,6 +19,8 @@ Your code (and comments) should be able to answer the following questions about 
 7. What other genres does this director work on?
 8. What is the average rating of all the movies by this director?
 9. Is your favorite movie by this director higher or lower rated than the average? Do you agree? Why or why not?
+10. **Extra Credit:**
+Make a short slideshow presentation of your favorite facts and work from any part of this project. We'll have an informal presentation day for everyone on the last day of class.
 
 # Challenge A
 
